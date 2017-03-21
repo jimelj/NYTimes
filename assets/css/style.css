@@ -1,0 +1,27 @@
+body{
+  background: url(../images/Newspapers.jpg);
+}
+
+
+
+.jumbo  {
+  opacity: .8;
+
+  background-color: black;
+  color: white;
+}
+
+.panel-heading, button{
+
+  background-color: black !important;
+
+  opacity: .8 !important;
+  color: white !important;
+}
+
+.panel-default{
+  background: transparent;
+}
+.panel-body{
+  background: white;
+}
